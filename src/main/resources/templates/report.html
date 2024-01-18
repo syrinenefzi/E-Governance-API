@@ -1,0 +1,78 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <style>
+    body {
+      text-align: center;
+    }
+
+    table {
+      margin: auto;
+      border: 0.5px solid;
+    }
+     h4 {
+      text-align: left;
+    }
+     li {
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+<h1 style="text-align: center; color: green">
+  <span th:text="'Content Of Birth ' + ${date} + ':'"></span>
+</h1>
+<br/>
+<br/>
+
+<p style="text-align: left; color: black">
+  <span style="font-weight: bold;">The Identifier:</span>
+  <span th:text="' ' + ${id} + '.'"></span>
+  <br/>
+  <br/>
+</p>
+
+<p style="text-align: left; color: black">
+  <span style="font-weight: bold;">The Full Name:</span>
+  <span th:text="' ' + ${fullName} + '.'"></span>
+  <br/>
+  <br/>
+</p>
+<p style="text-align: left; color: black">
+  <span style="font-weight: bold;">The Date Of Birth:</span>
+  <span th:text="' ' + ${dateOfBirth} + '.'"></span>
+  <br/>
+  <br/>
+</p>
+<p style="text-align: left; color: black">
+  <span style="font-weight: bold;">The Place Of Birth:</span>
+  <span th:text="' ' + ${placeOfBirth} + '.'"></span>
+  <br/>
+  <br/>
+</p>
+<p style="text-align: left; color: black">
+  <span style="font-weight: bold;">The Gender:</span>
+  <span th:text="' ' + ${sex} + '.'"></span>
+  <br/>
+  <br/>
+</p>
+<p style="text-align: left; color: black">
+  <span style="font-weight: bold;">The Father's Name:</span>
+  <span th:text="' ' + ${father} + '.'"></span>
+  <br/>
+  <br/>
+</p>
+<p style="text-align: left; color: black">
+  <span style="font-weight: bold;">The Mother's Name:</span>
+  <span th:text="' ' + ${mother} + '.'"></span>
+  <br/>
+  <br/>
+</p>
+<p style="text-align: left; color: black">
+  <span style="font-weight: bold;">Other Info:</span>
+  <span th:text="' ' + ${otherInfo} + '.'"></span>
+  <br/>
+  <br/>
+</p>
+
+</body>
+</html>

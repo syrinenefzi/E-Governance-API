@@ -1,0 +1,24 @@
+package Egovernance.Egovernance.model;
+
+import Egovernance.Egovernance.model.CityDto;
+import Egovernance.Egovernance.model.Gender;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.time.LocalDate;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Data
+public class ContentOfBirthObject {
+
+    private Integer id;
+    private String fullName;
+    private LocalDate dateOfBirth;
+    private CityDto placeOfBirth;
+    private Gender sex;
+    private String father;
+    private String mother;
+    private String otherInfo;
+}

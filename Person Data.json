@@ -1,0 +1,393 @@
+[
+  {
+    "id": 1,
+    "fullName": "John Smith",
+    "dateOfBirth": "1990-05-15",
+    "placeOfBirth": {
+      "id": 201,
+      "cityName": "Tunis"
+    },
+    "sex": "Male",
+    "father": "Michael Smith",
+    "mother": "Emily Smith",
+    "otherInfo": null
+  },
+  {
+    "id": 2,
+    "fullName": "Emily Johnson",
+    "dateOfBirth": "1995-08-22",
+    "placeOfBirth": {
+      "id": 202,
+      "cityName": "Beja"
+    },
+    "sex": "Female",
+    "father": "Robert Johnson",
+    "mother": "Linda Johnson",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 3,
+    "fullName": "David Williams",
+    "dateOfBirth": "1988-12-03",
+    "placeOfBirth": {
+      "id": 203,
+      "cityName": "Sfax"
+    },
+    "sex": "Male",
+    "father": "William Williams",
+    "mother": "Maria Williams",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 4,
+    "fullName": "Sophia Brown",
+    "dateOfBirth": "1992-03-10",
+    "placeOfBirth": {
+      "id": 204,
+      "cityName": "Sousse"
+    },
+    "sex": "Female",
+    "father": "Daniel Brown",
+    "mother": "Olivia Brown",
+    "otherInfo": null
+  },
+  {
+    "id": 5,
+    "fullName": "Ethan Davis",
+    "dateOfBirth": "1985-07-18",
+    "placeOfBirth": {
+      "id": 205,
+      "cityName": "Medenine"
+    },
+    "sex": "Male",
+    "father": "Thomas Davis",
+    "mother": "Ava Davis",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 6,
+    "fullName": "Olivia Miller",
+    "dateOfBirth": "1997-11-28",
+    "placeOfBirth": {
+      "id": 206,
+      "cityName": "BenArous"
+    },
+    "sex": "Female",
+    "father": "Richard Miller",
+    "mother": "Grace Miller",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 7,
+    "fullName": "Noah Taylor",
+    "dateOfBirth": "1989-09-05",
+    "placeOfBirth": {
+      "id": 207,
+      "cityName": "Ariana"
+    },
+    "sex": "Male",
+    "father": "Christopher Taylor",
+    "mother": "Victoria Taylor",
+    "otherInfo": null
+  },
+  {
+    "id": 8,
+    "fullName": "Emma Carter",
+    "dateOfBirth": "1994-04-15",
+    "placeOfBirth": {
+      "id": 201,
+      "cityName": "Tunis"
+    },
+    "sex": "Female",
+    "father": "George Carter",
+    "mother": "Hannah Carter",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 9,
+    "fullName": "Liam Turner",
+    "dateOfBirth": "1987-01-22",
+    "placeOfBirth": {
+      "id": 202,
+      "cityName": "Beja"
+    },
+    "sex": "Male",
+    "father": "Edward Turner",
+    "mother": "Isabella Turner",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 10,
+    "fullName": "Ava Bennett",
+    "dateOfBirth": "1999-06-08",
+    "placeOfBirth": {
+      "id": 203,
+      "cityName": "Sfax"
+    },
+    "sex": "Female",
+    "father": "Jack Bennett",
+    "mother": "Sophie Bennett",
+    "otherInfo": null
+  },
+  {
+    "id": 11,
+    "fullName": "Logan Reed",
+    "dateOfBirth": "1993-02-20",
+    "placeOfBirth": {
+      "id": 204,
+      "cityName": "Sousse"
+    },
+    "sex": "Male",
+    "father": "Simon Reed",
+    "mother": "Eva Reed",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 12,
+    "fullName": "Mia Walker",
+    "dateOfBirth": "1996-09-12",
+    "placeOfBirth": {
+      "id": 205,
+      "cityName": "Medenine"
+    },
+    "sex": "Female",
+    "father": "Jeffrey Walker",
+    "mother": "Catherine Walker",
+    "otherInfo": null
+  },
+  {
+    "id": 13,
+    "fullName": "Caleb Foster",
+    "dateOfBirth": "1986-11-05",
+    "placeOfBirth": {
+      "id": 206,
+      "cityName": "BenArous"
+    },
+    "sex": "Male",
+    "father": "Albert Foster",
+    "mother": "Jennifer Foster",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 14,
+    "fullName": "Stella Evans",
+    "dateOfBirth": "1998-04-18",
+    "placeOfBirth": {
+      "id": 207,
+      "cityName": "Ariana"
+    },
+    "sex": "Female",
+    "father": "Henry Evans",
+    "mother": "Laura Evans",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 15,
+    "fullName": "Lucas Mitchell",
+    "dateOfBirth": "1984-07-25",
+    "placeOfBirth": {
+      "id": 201,
+      "cityName": "Tunis"
+    },
+    "sex": "Male",
+    "father": "Victor Mitchell",
+    "mother": "Julia Mitchell",
+    "otherInfo": null
+  },
+  {
+    "id": 16,
+    "fullName": "Penelope Hayes",
+    "dateOfBirth": "1991-12-30",
+    "placeOfBirth": {
+      "id": 202,
+      "cityName": "Beja"
+    },
+    "sex": "Female",
+    "father": "Frank Hayes",
+    "mother": "Natalie Hayes",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 17,
+    "fullName": "Jackson Cooper",
+    "dateOfBirth": "1983-06-03",
+    "placeOfBirth": {
+      "id": 203,
+      "cityName": "Sfax"
+    },
+    "sex": "Male",
+    "father": "Walter Cooper",
+    "mother": "Diana Cooper",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 18,
+    "fullName": "Luna Harrison",
+    "dateOfBirth": "1997-01-15",
+    "placeOfBirth": {
+      "id": 204,
+      "cityName": "Sousse"
+    },
+    "sex": "Female",
+    "father": "Timothy Harrison",
+    "mother": "Pamela Harrison",
+    "otherInfo": null
+  },
+  {
+    "id": 19,
+    "fullName": "Elijah Turner",
+    "dateOfBirth": "1989-08-08",
+    "placeOfBirth": {
+      "id": 205,
+      "cityName": "Medenine"
+    },
+    "sex": "Male",
+    "father": "Ronald Turner",
+    "mother": "Wendy Turner",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 20,
+    "fullName": "Aria Stone",
+    "dateOfBirth": "1994-03-22",
+    "placeOfBirth": {
+      "id": 206,
+      "cityName": "BenArous"
+    },
+    "sex": "Female",
+    "father": "Samuel Stone",
+    "mother": "Grace Stone",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 21,
+    "fullName": "Gabriel Turner",
+    "dateOfBirth": "1996-07-11",
+    "placeOfBirth": {
+      "id": 207,
+      "cityName": "Ariana"
+    },
+    "sex": "Male",
+    "father": "Peter Turner",
+    "mother": "Sandra Turner",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 22,
+    "fullName": "Scarlett White",
+    "dateOfBirth": "1987-04-02",
+    "placeOfBirth": {
+      "id": 201,
+      "cityName": "Tunis"
+    },
+    "sex": "Female",
+    "father": "Derek White",
+    "mother": "Carol White",
+    "otherInfo": null
+  },
+  {
+    "id": 23,
+    "fullName": "Nathan Hayes",
+    "dateOfBirth": "1992-11-28",
+    "placeOfBirth": {
+      "id": 202,
+      "cityName": "Beja"
+    },
+    "sex": "Male",
+    "father": "Raymond Hayes",
+    "mother": "Dorothy Hayes",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 24,
+    "fullName": "Isabella Reynolds",
+    "dateOfBirth": "1985-09-14",
+    "placeOfBirth": {
+      "id": 203,
+      "cityName": "Sfax"
+    },
+    "sex": "Female",
+    "father": "Joseph Reynolds",
+    "mother": "Alice Reynolds",
+    "otherInfo": null
+  },
+  {
+    "id": 25,
+    "fullName": "Carter Mitchell",
+    "dateOfBirth": "1999-02-07",
+    "placeOfBirth": {
+      "id": 204,
+      "cityName": "Sousse"
+    },
+    "sex": "Male",
+    "father": "Gerald Mitchell",
+    "mother": "Lillian Mitchell",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 26,
+    "fullName": "Hazel Carter",
+    "dateOfBirth": "1991-05-20",
+    "placeOfBirth": {
+      "id": 205,
+      "cityName": "Medenine"
+    },
+    "sex": "Female",
+    "father": "Roger Carter",
+    "mother": "Megan Carter",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 27,
+    "fullName": "Leo Davis",
+    "dateOfBirth": "1988-12-09",
+    "placeOfBirth": {
+      "id": 206,
+      "cityName": "BenArous"
+    },
+    "sex": "Male",
+    "father": "Patrick Davis",
+    "mother": "Judith Davis",
+    "otherInfo": null
+  },
+  {
+    "id": 28,
+    "fullName": "Aurora Foster",
+    "dateOfBirth": "1995-06-18",
+    "placeOfBirth": {
+      "id": 207,
+      "cityName": "Ariana"
+    },
+    "sex": "Female",
+    "father": "Norman Foster",
+    "mother": "Brenda Foster",
+    "otherInfo": "Single"
+  },
+  {
+    "id": 29,
+    "fullName": "Evan Williams",
+    "dateOfBirth": "1983-03-27",
+    "placeOfBirth": {
+      "id": 201,
+      "cityName": "Tunis"
+    },
+    "sex": "Male",
+    "father": "Philip Williams",
+    "mother": "Rose Williams",
+    "otherInfo": "Married"
+  },
+  {
+    "id": 30,
+    "fullName": "Avery Palmer",
+    "dateOfBirth": "1994-10-12",
+    "placeOfBirth": {
+      "id": 202,
+      "cityName": "Beja"
+    },
+    "sex": "Female",
+    "father": "Kenneth Palmer",
+    "mother": "Helen Palmer",
+    "otherInfo": null
+  }
+]
+  
